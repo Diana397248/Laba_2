@@ -9,6 +9,11 @@ namespace Laba_2
             // Task1.Run();
             // Task2.Run();
             Task3.Run();
+            
+            // Команда по закрытию приложения.
+            Console.Write("Нажмите на любую кнопку что бы закрыть программу");
+            Console.ReadKey();
+
         }
         
     }
